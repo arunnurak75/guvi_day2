@@ -1,0 +1,10 @@
+typeof operator : The typeof operator is used to get the data type of its operand.
+typeof(1)           //the typeof operater is "number"
+typeof(1.1)         //the typeof operator is "number"
+typeof('1.1')       //the typeof operator is "string"
+typeof(true)        //the typeof operator is "boolean"
+typeof(null)        //the typeof operator is "object"
+typeof(undefined)   //the typeof operator is "undefined"
+typeof([])          //the typeof operator is "object"
+typeof({})          //the typeof operator is "object"
+typeof(NaN)         //the typeof operator is "number"]
