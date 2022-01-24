@@ -1,0 +1,22 @@
+Parsing HTML :
+forgiving by nature is HTML.
+Parsing isn't straight forward.
+can be halted. will do speculative parsing.
+It's reentrant.
+
+Tokenizer :
+start tag and end tag is used while tokenizer.
+Tag open, Tag name and Tag close is user for opening.
+Close tag open, Tag name and Tag close is used for closing.
+
+Script will halt the parser as script can alter the document.
+link and style could halt Js Execution.
+Multiple trees are Render objects, Render styles, Render layers and Line boxes.
+Recursive process consists of Traverse render trees, nodes position and sixe and layout.
+
+The browser will intellegently batch changes.
+Render trees items will flag themselves as dirty.
+the batch will traverse the tree and find all dirty trees.
+CSS speed up first paint times.
+Delta is the last Bit map for Javascript.
+
