@@ -1,0 +1,14 @@
+Browser JS(console :
+Javascript is a lightweight, object oriented scripting language.
+It is used to build dynamic HTML pages with interactive effects on webpage, mobile app, games,server app etc.
+Javascript can also be run on external servers through Node.js since Node.js provides the required Javascript runtime environment.
+All Browser have in-built Javascript engines. which is why browsers can run Javascript codes of webpage.
+Generally designed to build network-centric applications.
+
+
+Nodejs :
+Node.js is not a language. It is a cross-platform, open scorce, server side runtime environment.
+It facilitates Javascript to be run on a server. Node.js can run on various platform - Windows, Linux, Mac os etc.
+Node.js helps to create backend services.
+Nodejs uses "V8 engine" which enables it to parse and run Javascript code.
+Generally user to design cross-platform data-intensive real-time applications.
